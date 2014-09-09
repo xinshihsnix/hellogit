@@ -31,7 +31,7 @@ public class MainActivity extends MeZone3BaseActivity implements BottomFragement
 	public static String ITEM = "ITEM";
 	
 	/**测试在vi编辑器下更新文件然后提交*/
-	public int testNum = 1;
+	public int testNum = 22;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
