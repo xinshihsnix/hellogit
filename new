@@ -1,1 +1,10 @@
-create new file
+create new file 哈哈。。。
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v140)
+"   /Users/shefenfei/test/hellogit/aaa
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+../
+.swp
