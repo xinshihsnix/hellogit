@@ -2,6 +2,7 @@ package com.lianbi.mezonenew.activity;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
+
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -28,7 +29,10 @@ public class MainActivity extends MeZone3BaseActivity implements BottomFragement
 	private AbTitleBar mAbTitleBar;
 	/**ITEM区分底部菜单*/
 	public static String ITEM = "ITEM";
-
+	
+	/**测试在vi编辑器下更新文件然后提交*/
+	public int testNum = 1;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
